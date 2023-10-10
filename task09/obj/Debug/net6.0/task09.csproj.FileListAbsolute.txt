@@ -1,0 +1,15 @@
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\bin\Debug\net6.0\task09.exe
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\bin\Debug\net6.0\task09.deps.json
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\bin\Debug\net6.0\task09.runtimeconfig.json
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\bin\Debug\net6.0\task09.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\bin\Debug\net6.0\task09.pdb
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\task09.csproj.AssemblyReference.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\task09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\task09.AssemblyInfoInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\task09.AssemblyInfo.cs
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\task09.csproj.CoreCompileInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\task09.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\refint\task09.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\task09.pdb
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\task09.genruntimeconfig.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task09\obj\Debug\net6.0\ref\task09.dll
