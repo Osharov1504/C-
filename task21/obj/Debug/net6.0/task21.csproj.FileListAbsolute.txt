@@ -1,0 +1,15 @@
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\task21.csproj.AssemblyReference.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\task21.AssemblyInfoInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\task21.AssemblyInfo.cs
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\task21.csproj.CoreCompileInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\bin\Debug\net6.0\task21.exe
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\bin\Debug\net6.0\task21.deps.json
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\bin\Debug\net6.0\task21.runtimeconfig.json
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\bin\Debug\net6.0\task21.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\bin\Debug\net6.0\task21.pdb
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\task21.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\refint\task21.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\task21.pdb
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\task21.genruntimeconfig.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task21\obj\Debug\net6.0\ref\task21.dll
