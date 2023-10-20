@@ -16,12 +16,12 @@ int[] GetRandArray(int size)
 }
 void PrintArray(int[] arr)
 {
-    for (int i = 0; i < arr.lenght; i++)
+    for (int i = 0; i < arr.Length; i++)
     {
         System.Console.Write($"{arr[i]}, ");
     }
 }
 
-int[] userArray = GetRandArray(9);
+int[] userArray = GetRandArray(8);
 PrintArray(userArray);
 
