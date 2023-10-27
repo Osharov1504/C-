@@ -1,0 +1,5 @@
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
