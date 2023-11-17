@@ -1,0 +1,15 @@
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\task62.csproj.AssemblyReference.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\task62.AssemblyInfoInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\task62.AssemblyInfo.cs
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\task62.csproj.CoreCompileInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\bin\Debug\net6.0\task62.exe
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\bin\Debug\net6.0\task62.deps.json
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\bin\Debug\net6.0\task62.runtimeconfig.json
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\bin\Debug\net6.0\task62.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\bin\Debug\net6.0\task62.pdb
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\task62.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\refint\task62.dll
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\task62.pdb
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\task62.genruntimeconfig.cache
+C:\Users\oshar\OneDrive\Рабочий стол\C#\task62\obj\Debug\net6.0\ref\task62.dll
